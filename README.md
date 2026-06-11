@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
+## Marvin
 
-<!--
-**marvinerbarth/marvinerbarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student developer (17, Germany) focused on C++, systems programming, and compilers.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- C++ / low-level programming
+- Parser and interpreter development
+- Algorithms and data structures
+
+---
+
+## Projects
+- Expression parser (tokenizer, RPN evaluation)
+- Compiler / interpreter (in progress)
+
+---
+
+## Tech
+C++, Git
